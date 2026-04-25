@@ -21,6 +21,7 @@
 - [项目简介](#项目简介)
 - [当前界面与实际平台展示](#当前界面与实际平台展示)
 - [功能特性](#功能特性)
+- [赞助商目录](#赞助商目录)
 - [界面预览](#界面预览)
 - [技术栈](#技术栈)
 - [环境要求](#环境要求)
@@ -33,7 +34,6 @@
 - [项目结构](#项目结构)
 - [Electron 开发说明](#electron-开发说明)
 - [用户讨论群](#用户讨论群)
-- [赞助商目录](#赞助商目录)
 - [打赏博主](#赞助支持)
 - [Star History](#star-history)
 - [License](#license)
@@ -65,6 +65,16 @@
 - **实时日志**：前端实时查看注册日志
 - **任务历史管理**：支持历史记录查看与批量删除
 - **插件化扩展**：可按需接入外部服务和独立管理端
+
+## 赞助商目录
+
+感谢以下朋友与伙伴对 any-auto-register 的支持。
+
+| Logo | 名称 | 介绍 | 官网 |
+| --- | --- | --- | --- |
+| <a href="https://pay.ldxp.cn/shop/plus7" target="_blank"><img src="frontend/public/zhz7.jpg" alt="plus7卡网" width="140" /></a> | plus7卡网 | 提供稳定、低价的 GPT Plus 开通与相关服务，适合有日常使用和持续订阅需求的用户。可前往官网查看最新方案与说明。 | [https://pay.ldxp.cn/shop/plus7](https://pay.ldxp.cn/shop/plus7) |
+| <a href="https://gzxsy.vip" target="_blank"><img src="frontend/public/gzxsylogo.jpg" alt="星思研中转站" width="140" /></a> | 星思研中转站 | 为 Claude Code、Codex 等模型调用场景提供稳定中转与配套服务，适合需要高可用接口、便捷接入和持续交付支持的开发者与团队。可前往官网了解最新方案。 | [https://gzxsy.vip](https://gzxsy.vip) |
+| <a href="https://ai.xiaoye.io/" target="_blank"><img src="frontend/public/xiaoyelogo.jpg" alt="小野API中转站" width="140" /></a> | 小野API中转站 | 为 Claude Code、Codex 等模型调用场景提供稳定中转与配套服务，适合需要高可用接口、便捷接入和持续交付支持的开发者与团队。可前往官网了解最新方案。 | [https://ai.xiaoye.io/](https://ai.xiaoye.io/) |
 
 ## 界面预览
 
@@ -530,15 +540,6 @@ Electron 开发模式不会自动启动 Python 后端。
 ## 用户讨论群
 
 - QQ群：**1065114376**（any-auto-register 注册机用户讨论群）
-
-## 赞助商目录
-
-感谢以下朋友与伙伴对 any-auto-register 的支持。
-
-| Logo | 名称 | 介绍 | 官网 |
-| --- | --- | --- | --- |
-| <a href="https://gzxsy.vip" target="_blank"><img src="frontend/public/gzxsylogo.jpg" alt="星思研中转站" width="140" /></a> | 星思研中转站 | 为 Claude Code、Codex 等模型调用场景提供稳定中转与配套服务，适合需要高可用接口、便捷接入和持续交付支持的开发者与团队。可前往官网了解最新方案。 | [https://gzxsy.vip](https://gzxsy.vip) |
-| <a href="https://ai.xiaoye.io/" target="_blank"><img src="frontend/public/xiaoyelogo.jpg" alt="小野API中转站" width="140" /></a> | 小野API中转站 | 为 Claude Code、Codex 等模型调用场景提供稳定中转与配套服务，适合需要高可用接口、便捷接入和持续交付支持的开发者与团队。可前往官网了解最新方案。 | [https://ai.xiaoye.io/](https://ai.xiaoye.io/) |
 
 ## 赞助支持
 

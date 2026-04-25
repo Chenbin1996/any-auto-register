@@ -15,6 +15,7 @@ Multi-platform automated account registration and management system, supporting 
 - [Project Overview](#project-overview)
 - [Current Interface & Supported Platforms](#current-interface--supported-platforms)
 - [Features](#features)
+- [Sponsors](#sponsors)
 - [UI Preview](#ui-preview)
 - [Tech Stack](#tech-stack)
 - [Requirements](#requirements)
@@ -27,7 +28,6 @@ Multi-platform automated account registration and management system, supporting 
 - [Project Structure](#project-structure)
 - [Electron Development Notes](#electron-development-notes)
 - [User Discussion Group](#user-discussion-group)
-- [Sponsors](#sponsors)
 - [Support the Author](#support-the-author)
 - [Star History](#star-history)
 - [License](#license)
@@ -57,6 +57,16 @@ Based on the current frontend code and UI, the **platforms displayed by default 
 - **Real-time Logs**: View registration logs in real-time on the frontend
 - **Task History Management**: View history records and batch delete
 - **Plugin-based Extensibility**: Integratable external services and independent management panels
+
+## Sponsors
+
+Thank you to the following friends and partners for supporting any-auto-register.
+
+| Logo | Name | Description | Website |
+| --- | --- | --- | --- |
+| <a href="https://pay.ldxp.cn/shop/plus7" target="_blank"><img src="frontend/public/zhz7.jpg" alt="plus7卡网" width="140" /></a> | plus7卡网 | Provides stable and affordable GPT Plus subscription services, suitable for users who need reliable daily access and ongoing renewals. Visit the website for the latest plans and details. | [https://pay.ldxp.cn/shop/plus7](https://pay.ldxp.cn/shop/plus7) |
+| <a href="https://gzxsy.vip" target="_blank"><img src="frontend/public/gzxsylogo.jpg" alt="星思研中转站" width="140" /></a> | 星思研中转站 | Provides stable relay services for model calling scenarios like Claude Code, Codex, etc., suitable for developers and teams needing high-availability interfaces, convenient integration, and continuous delivery support. | [https://gzxsy.vip](https://gzxsy.vip) |
+| <a href="https://ai.xiaoye.io/" target="_blank"><img src="frontend/public/xiaoyelogo.jpg" alt="小野API中转站" width="140" /></a> | 小野API中转站 | Provides stable relay services for model calling scenarios like Claude Code, Codex, etc., suitable for developers and teams needing high-availability interfaces, convenient integration, and continuous delivery support. | [https://ai.xiaoye.io/](https://ai.xiaoye.io/) |
 
 ## UI Preview
 
@@ -520,15 +530,6 @@ Then run Electron.
 ## User Discussion Group
 
 - QQ Group: **1065114376** (any-auto-register registration tool user discussion group)
-
-## Sponsors
-
-Thank you to the following friends and partners for supporting any-auto-register.
-
-| Logo | Name | Description | Website |
-| --- | --- | --- | --- |
-| <a href="https://gzxsy.vip" target="_blank"><img src="frontend/public/gzxsylogo.jpg" alt="星思研中转站" width="140" /></a> | 星思研中转站 | Provides stable relay services for model calling scenarios like Claude Code, Codex, etc., suitable for developers and teams needing high-availability interfaces, convenient integration, and continuous delivery support. | [https://gzxsy.vip](https://gzxsy.vip) |
-| <a href="https://ai.xiaoye.io/" target="_blank"><img src="frontend/public/xiaoyelogo.jpg" alt="小野API中转站" width="140" /></a> | 小野API中转站 | Provides stable relay services for model calling scenarios like Claude Code, Codex, etc., suitable for developers and teams needing high-availability interfaces, convenient integration, and continuous delivery support. | [https://ai.xiaoye.io/](https://ai.xiaoye.io/) |
 
 ## Support the Author
 
